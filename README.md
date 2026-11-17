@@ -1,4 +1,4 @@
-### Hi, ich bin [Dein Name] 👋
+### Moin, ich bin Tobias Kühl
 **M.Sc. Osteopathie • Physiotherapeut • Heilpraktiker • Linux- & Open-Source-Enthusiast**
 
 Ich verbinde klinische Praxis und wissenschaftliche Datenerhebung mit datensouveräner Open-Source-Infrastruktur. Mein Ziel ist, sensible Arbeitsabläufe im Gesundheitswesen durch 100 % lokale Linux-Systeme unabhängig von proprietären Cloud-Diensten zu machen.
