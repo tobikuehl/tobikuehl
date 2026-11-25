@@ -10,7 +10,7 @@
 + **Mobile Security & Automatisierung:**  
   Vom Flashen früher **CyanogenMod**-Builds und **Magisk**-Setups bis hin zum produktiven Einsatz von **GrapheneOS** (konsequenter F-Droid-First-Ansatz). Einsatz von **Termux** und Python zur automatisierten Steuerung von Mess-Apps.
 + **Daten- & KI-Pipelines:**  
-  Automatisierte Extraktion, Bereinigung und statistische Auswertung klinischer Messdaten (Python, Pandas, SciPy) sowie Orchestrierung lokaler Audio- und Sprachmodelle (`lemonade-server`, `Faster-Whisper`, `llama.cpp`, `FastAPI`) auf Consumer-Hardware.
+  Automatisierte Extraktion, Bereinigung und statistische Auswertung klinischer Messdaten (Python, Pandas, SciPy) sowie Orchestrierung lokaler Audio- und Sprachmodelle (`lemonade-server`, `Faster-Whisper`, `llama.cpp`) auf Consumer-Hardware.
 + **Self-Hosting:**  
   Betrieb eigener Docker-basierter Server-Infrastrukturen für datenschutzkonforme Workflows.
 + **Web-Entwicklung & Flat-File-CMS:**  
